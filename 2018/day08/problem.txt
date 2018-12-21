@@ -1,5 +1,3 @@
-Our sponsors help make Advent of Code possible:
-SmartyStreets - Global address validation made by developers, for developers
 --- Day 8: Memory Maneuver ---
 
 The sleigh is much easier to pull than you'd expect for something its weight. Unfortunately, neither you nor the Elves know which way the North Pole is from here.
